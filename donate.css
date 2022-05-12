@@ -105,7 +105,7 @@
   text-decoration: none;
   background-color: #000000;
 }
-.donate-text1 {
+.donate-text01 {
   font-family: Courier New;
 }
 .donate-header {
@@ -151,7 +151,7 @@
   align-items: space-between;
   flex-direction: column;
 }
-.donate-text3 {
+.donate-text03 {
   font-size: 35px;
   min-width: var(--dl-size-size-xsmall);
   align-self: center;
@@ -159,7 +159,7 @@
   font-family: Courier New;
   font-weight: 600;
 }
-.donate-text4 {
+.donate-text04 {
   font-size: 18px;
   font-family: Courier New;
 }
@@ -234,8 +234,14 @@
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.donate-text5 {
+.donate-text05 {
   font-family: Courier New;
+}
+.donate-text28 {
+  text-decoration: underline;
+}
+.donate-text33 {
+  text-decoration: underline;
 }
 @media(max-width: 991px) {
   .donate-icon04 {
